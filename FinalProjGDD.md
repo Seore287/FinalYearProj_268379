@@ -49,6 +49,15 @@ concealed or unattainable in one dimension but accessible in another. A bridge m
 or disclosing concealed pathways. Players must think critically about the timing and location for opening portals to manipulate objects or resolve multi-dimensional puzzles.
 
 ### Game Objects
+Elder Orin (Guardian of Aether) 
+- Backstory: Orin is among the final Aether guardians tasked to maintain balance between realms. He has observed the climb and descent of numerous civilisations and acts as a guide to the protagonist, providing 
+cryptic counsel and essential experience throughout the journey. 
+- Narrative Role: Supply the player with information on traversing the gateways and beating the ancient entity. In some scenes, the player appears as a ghostlike figure. 
+- Dialogue Sample – “The portals are not solely doorways, but ruptures in the fabric of the realms. They demand respect, for the journey ahead is both perilous and illuminating.” 
+Special Powers: Time manipulation and Dimensional projection 
+Attributes: 
+Age: Eternal 
+Position: Mentor and Guardian
 
 
 ## Game Characters
