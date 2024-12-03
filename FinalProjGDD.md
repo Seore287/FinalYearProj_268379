@@ -15,13 +15,16 @@ combat with numerous adversaries, tackle in-game puzzles, and uncover hidden tru
 - Environmental Challenges: Overcome diverse puzzles to unlock new regions and advance through the narrative.
 
 ### ​Genre/Theme
-Adventure, Puzzle, Mystery.
+Primary Genre: Adventure 
+Secondary Genre: Puzzle, Role Playing, and Exploration
 
 ### Platform
-PC (Windows, macOS) and Console (Playstation, Xbox)
+PC (Windows, macOS) 
+Console (PlayStation, Xbox)
 
 ### ​Target Audience
-Ages 10+, fans who enjoy immersive narratives and exploration.
+15 and above 
+Gamers who like immersive games and exploration.
 
 ## Narrative
 ###  ​The Storyline
