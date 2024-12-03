@@ -54,8 +54,8 @@ Elder Orin (Guardian of Aether)
 cryptic counsel and essential experience throughout the journey. 
 - Narrative Role: Supply the player with information on traversing the gateways and beating the ancient entity. In some scenes, the player appears as a ghostlike figure. 
 - Dialogue Sample – “The portals are not solely doorways, but ruptures in the fabric of the realms. They demand respect, for the journey ahead is both perilous and illuminating.” 
-Special Powers: Time manipulation and Dimensional projection 
-Attributes: 
+- Special Powers: Time manipulation and Dimensional projection 
+- Attributes: 
 Age: Eternal 
 Position: Mentor and Guardian
 
