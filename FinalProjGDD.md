@@ -26,8 +26,8 @@ Console (PlayStation, Xbox)
 15 and above 
 Gamers who like immersive games and exploration.
 
-## Narrative
-###  ​The Storyline
+## Gameplay Mechanics
+###  ​Core Gameplay
 The player awakens in a ghostly realm called The Veil, a world caught between life and death. A cryptic figure named The Whisperer tasks you with uncovering the secrets of the realm to escape. As you gather Memory Fragments, you piece together your life story, ultimately facing a choice: embrace your true identity and leave The Veil or stay to mend the fractured souls trapped within.
 
 ### ​Game Influences
