@@ -67,125 +67,95 @@ Jada (Merchant)
 #### Game Enemies
 Wraithborn 
 - Backstory: A rogue trader traversing realms in pursuit of valuable treasures for trade. The NPC maintains neutrality in conflict while o ering essential items and knowledge. 
-Attributes:  
+#### Attributes:  
 - Health: Moderate 
 - Speed: High 
 - Damage: Medium 
-Attacks:  
+#### Attacks:  
 - Shadow Swipe: rapid and incisive claw attacks. 
 - Rift Step: Teleports small distances to ambush the protagonist.
 
 Void Reaper (Boss Monster) 
 - Backstory: A formidable being shaped from the warped dimension. It is the protector of an unstable portal and serves the ancient force that threatens the equilibrium of the realms. 
-Attributes:  
+#### Attributes:  
 - Health: Extremely High 
 - Speed: Low 
 - Damage: High 
-Attacks:
+#### Attacks:
 - Crushing Blow: A massive overhead attack with its scythe causing area effect damage. 
 - Void Pull: ensnares the protagonist and adjacent enemies into a vortex that inflicts damage over time. 
 Special Powers:
 - Energy Absorb: briefly enhances its power by absorbing elemental strikes. 
 
+### Game Weapons
+Void Sword 
+#### Attributes: 
+- Damage: 50 - 70 
+- Elemental E ect: 10 - 20 
+- Range: Medium 
+- Speed: Fast 
+#### Behaviour:  
+- Upon attacking, it can intricate an elemental detonation corresponding to the elemental a inity of the current realm.
 
-## Game Characters
-### Player Characters
-Main Character: Kaelin Draven
-- A mysterious individual trapped in The Veil, their identity is revealed through the fragments they collect. 
+Aether Spear 
+#### Attributes:  
+- Damage: 40 – 60 (melee), 30 – 50 (thrown) 
+- Special E ect: generates a crack upon being thrown 
+- Range: Long 
+- Speed: Moderate 
+#### Behaviour:  
+- Upon being hurled, the spear generates a small dimensional rift, inflicts area damage and attracts adjacent foes. 
 
-### Enemies
-Elder Shadowroot
-- Phase 1: Corrupted Treant
-Attacks with massive sweeping strikes and root-based AoEs.
-Summons Shadow Wolves to distract the player.
-- Phase 2: Unleashed Corruption
-Breaks apart into a spectral form, summoning shadow tendrils to strike from the ground.
-Envelops the arena in darkness, limiting visibility and requiring the player to use light-based abilities.
-- Phase 3: Final Stand
-Combines physical and spectral forms, alternating between heavy melee and ranged corruption attacks.
-Arena hazards include collapsing terrain and spreading corruption zones.
-Reward: Cleansing the forest restores light to the region, unlocking a new sword ability or enhancing the player's existing power.
+## Player Controls
+- Movement: WASD / Left Joystick 
+- Jump: Space / RT button 
+- Combat: Right or Left mouse / B button 
+- Abilities: X / A button
+- Interact: I / X button
+- Camera Control: Mouse / Right Joystick 
 
-Shadow Wolves: Agile enemies that attack in packs, coordinating to surround the player. 
-Treant Guardians: Slow-moving but heavily armored. 
-Phantom Wisps: Hovering spectral enemies that attack from a distance.
+## Scoring 
+- Health Points: The life bar displays the player’s health, which depletes when damage is taken from game adversaries or hazards. 
+- Life Points: The player possesses a finite number of life points which indicate the number of fatalities permissible before respawning at the most recent checkpoint. 
 
-### Allies
-- Eryndor: A ghostly, hooded figure who appears to guide Kaelen through The Veil. Eryndor speaks cryptically and knows more about Kaelen’s past than they initially reveal. 
+## Inventory
+- Weapons are acquired during gameplay and can be stored in an inventory system.
+- Special goods, such as artefacts, bestow upon the player distinct skills or lore related information. 
+- Healing supplies such as potions or medkits can be equipped and used during combat.
 
-## Core Gameplay
-### ​Gameplay Mechanics
-- Exploration: players explore a semi-open world divided into interconnected zones. Each area presents a unique aesthetic, challenges, and mysteries. 
-- Progression: players collect "Memory Fragments" hidden throughout the world to restore their identity and unlock new areas or abilities. Upgrades include enhanced vision (detect hidden objects), mobility (dash, wall climb), and interaction abilities.
-- Puzzle Solving: physics-based logic puzzles will be integrated into the environment, like activating ancient mechanisms.
+## Level Overview
+### Locations
+- Aether Forest: a realm of nature overgrown with ancient ruins. 
+- Crimson Desert: a barren desert a licted by fiery storms.
+- Skyward City: a floating city built with sophistication. 
+- Eclipse Ruins: a dark, crumbling fortress home to powerful game enemies.
 
-### Game Objectives and Rewards
-Short-Term Objectives:
-Solve puzzles to unlock pathways.
-Collect Memory Fragments and interact with key phantoms.
+### Puzzles
+Each realm will have puzzles that require manipulating elemental forces, moving objects, and interacting with portals to progress.
 
-Long-Term Objectives:
-Unravel the mystery of the player’s identity.
-Decide the fate of The Veil.
+## Sound and Music
+### Overall Goals
+- The sound within the game enhances the immersion of various realms, each having a unique ambience based on the environment.
 
-Rewards:
-New abilities (e.g., phasing through walls).
-Story revelations through cutscenes and dialogue.
-Unlocking visually stunning new areas.
-  
-### Game Controls
-- Movement: WASD / Left Stick
-- Jump: Space / A button
-- Trail Dash: Shift / B button
-- Light Leap: E / X button
-- Prism Shield: Z / Y button
-- Energy Boost: B / r1 button
-- Phantom Pulse: K / L1 button
-- Interact: F / X button
-- Camera Control: Mouse / Right Stick
-
-### ​World and Level Design
-1. The Shrouded Forest: a misty woodland filled with glowing trees and spectral wildlife.
-2. The Crumbling Citadel: a decayed castle suspended in time, with puzzles involving collapsing floors and rotating corridors.
-3. The Abyssal Peaks: snowy mountains cloaked in an eternal storm.
-4. The Luminous Cavern: underground caves glowing with bioluminescent crystals, hosting reflective puzzles.
-
-### ​Movement and Abilities
-- Basic Movement: players use the standard controls to walk, run, jump, and interact with the environment. All other details can be seen in above (Game Controls).
-- Solar Slash: Unleashes a powerful swing that deals extra holy damage to dark-aligned enemies.
-- Flame Wave – Cleaves the air, sending a wave of fire forward to burn multiple enemies.
-- Stormcall: Slams the ground to summon a localized storm, dealing area-of-effect lightning damage.
-
-### ​Weapons
-- Eclipse Blade: a longsword forged from celestial metal that shimmers in the light, shifting between radiant silver and dark obsidian. Upgrades: Increased critical hit chance, chance to blind enemies, added fire or light damage.
-- Thunderstrike Hammer: heavy duty weapon thats fused with electric energy, with rune symbols ertched around them. Upgrades: Increased shock radius, chance to paralyze enemies, adds chain lightning effect to hits.
-- Emberhand Axe: imbued with fiery enchantments, glowing around the edges. Upgrades: Higher burn duration, larger flame wave, chance to ignite surrounding enemies on impact.
-
-### ​Inventory
-This will help the player store weapons, accessories and consumables. However, a sort of resource systsem will be included with the game, as the player would have to go on quests within the game. There will also be a quick access menu and a capacity management for each item placed there.
-
-## Sound
-### Diegetic
-Atmospheric and haunting, featuring ambient strings, choral vocals, and subtle electronic undertones.
-
-### Non-diegetic
-Echoing footsteps
-Whispers in the wind
-Resonant chimes for spectral interactions
+### Sound effects and Music
+- Music: Each realm has its theme that blends orchestral and electronic tones to evoke mystery and awe 
+- Sound Effects: Portal sounds, weapon clashes, and elemental powers should feel impactful and immersive. 
 
 ## Graphical User Interface
 ### ​Maps and Views
-- Mini map: a small map displayed on the screen providing an overview of the player's surroundings.
-- World Map: players get acesss to a bigger map from the pause or inventory menu. It provides an overview of the entire realm, displaying objectives and player's current location.
-- Third Person Camera: gives players a perspective of their surroundings. The camera is adjustable with the players able to control it manually using the mouse/right stick when navigating the terrain.
+- Mini map: a scaled-down view of immediate surroundings, indicating other NPCs and interactable objects. It is there to aid players navigate without needing to open the world map.
+- World Map: a visual representation of all realms (Aether Forest, Crimson Desert, Skyward City, Eclipse Ruins) that the player can explore. Each area is marked with critical locations like portals, bosses, and puzzle spots. 
+- Exploration View: the view may change between third-person or isometric, showcasing the surroundings and giving a clear sense of scale when navigating different environments. 
 - HUD Elements: this includes the health bar, ability status icons and a Trailshard counter.
 
 ### ​Heads Up Display (HUD)
-- Mini-Map: provides a small, situational overview of the player’s location.
-- World Map: accessible from the pause menu, showing the entrie map, displaying game objectives, and the players current location.
-- HUD Elements: health bar and ability status.
-- Inventory Menu: displays collected items and available upgrades.
-
+- Health Bar:  a visual display of the player’s current health, which will likely be positioned at the top-left corner of the screen. This will deplete when taking damage and regenerate with healing items.
+- Power Indicator:  this shows the current elemental power being used and its status, like cooldown time or energy bar, which depletes as it is in use.
+- Quest/Objective Indicator: displays the current mission or task that the player needs to complete.
+  
 ### ​Menus
 - Main Menu: Options for starting a new game, loading a saved game, settings, and credits.
 - Pause Menu: Resume game, options, controls, and quit to main menu.
+- Settings Menu: adjusts game settings like sound levels and graphic options.
+- Inventory Menu:  a detailed display where players can view artefacts, weapons, and consumables.
+- Quest Log: this keeps track of the player’s progress throughout the game, keeping a list of completed missions or side quests.
