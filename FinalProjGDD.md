@@ -55,7 +55,38 @@ cryptic counsel and essential experience throughout the journey.
 - Narrative Role: Supply the player with information on traversing the gateways and beating the ancient entity. In some scenes, the player appears as a ghostlike figure. 
 - Dialogue Sample – “The portals are not solely doorways, but ruptures in the fabric of the realms. They demand respect, for the journey ahead is both perilous and illuminating.” 
 - Special Powers: Time manipulation and Dimensional projection 
-- Age: Eternal 
+- Age: Eternal
+
+Jada (Merchant) 
+- Backstory: A covert trader traversing realms in pursuit of priceless treasures for commerce. The NPC maintains neutrality in the war while providing valuable products and information.
+- Narrative Role: Provides the protagonist with vital equipment, weapons, and restorative items. Occasionally, she discloses details regarding the locations of in-game adversaries and hidden routes. 
+- Dialogue Sample – “You are always in need of something, are you not? I own precisely what you seek, subject to an appropriate fee.” 
+- Special Powers: Unknown  
+- Age: Unknown
+
+#### Game Enemies
+Wraithborn 
+- Backstory: A rogue trader traversing realms in pursuit of valuable treasures for trade. The NPC maintains neutrality in conflict while o ering essential items and knowledge. 
+Attributes:  
+- Health: Moderate 
+- Speed: High 
+- Damage: Medium 
+Attacks:  
+- Shadow Swipe: rapid and incisive claw attacks. 
+- Rift Step: Teleports small distances to ambush the protagonist.
+
+Void Reaper (Boss Monster) 
+- Backstory: A formidable being shaped from the warped dimension. It is the protector of an unstable portal and serves the ancient force that threatens the equilibrium of the realms. 
+Attributes:  
+- Health: Extremely High 
+- Speed: Low 
+- Damage: High 
+Attacks:
+- Crushing Blow: A massive overhead attack with its scythe causing area effect damage. 
+- Void Pull: ensnares the protagonist and adjacent enemies into a vortex that inflicts damage over time. 
+Special Powers:
+- Energy Absorb: briefly enhances its power by absorbing elemental strikes. 
+
 
 ## Game Characters
 ### Player Characters
