@@ -28,13 +28,28 @@ Gamers who like immersive games and exploration.
 
 ## Gameplay Mechanics
 ###  ​Core Gameplay
-The player awakens in a ghostly realm called The Veil, a world caught between life and death. A cryptic figure named The Whisperer tasks you with uncovering the secrets of the realm to escape. As you gather Memory Fragments, you piece together your life story, ultimately facing a choice: embrace your true identity and leave The Veil or stay to mend the fractured souls trapped within.
+Players will engage in real-time combat with enemies and solve puzzles. The game’s progression is tied to unlocking new abilities, travelling through portals, and defeating enemies guarding the new realms. 
 
-### ​Game Influences
-- Elden Ring
-- The Legend of Zelda
-- Palworld
-- Ratchet and Clank
+### ​Characters
+- Nyxen (Main Character): a trooper born from the Aether, able to wield elemental 
+powers and dimensional abilities.
+- Elder Protectors: These are ancient creatures protecting the balance of the 
+realms. 
+- Antagonists: a force seeking to manipulate the instability of the portals.
+
+### ​EnemyAI
+In-game antagonists vary from mindless entities indigenous to di erent realms to sentient beings protecting key areas. The NavMesh system and several AI components adjust to the player’s tactics, 
+with some enemies using coordinated attacks and exploiting environmental advantages. 
+
+### Gameplay Elements
+- Combat and Strategy: Portals may be used in combat in specific situations. Nyxen can use portals to achieve a tactical edge by transitioning between dimensions to evade threats, ambush adversaries,or employ novel battle methods informed by the distinct characteristics of each world. 
+- Dimensional Traversal: Portals enable players to traverse e ortlessly between realms with distinct physical and elemental characteristics. By transitioning between realms, gamers can reach regions that may be
+concealed or unattainable in one dimension but accessible in another. A bridge may be present in one dimension but not another, necessitating players to transition between realms to advance. 
+- Environmental Manipulation: Certain game problems necessitate the player's clever use of portals. They can modify the environmental state upon activation, including transforming terrain, opening doors,
+or disclosing concealed pathways. Players must think critically about the timing and location for opening portals to manipulate objects or resolve multi-dimensional puzzles.
+
+### Game Objects
+
 
 ## Game Characters
 ### Player Characters
