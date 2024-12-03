@@ -7,9 +7,12 @@ stability in the world. These realms are experiencing chaos due to a mysterious 
 realms, and making decisions that influence the narrative. The player embodies Nyxen, an Aetherborn survivor capable of elemental manipulation and dimensional traversal. The player will navigate ethereal terrains, 
 combat with numerous adversaries, tackle in-game puzzles, and uncover hidden truths behind the portals. 
 
-## Game Overview
-### Concept
-The game combines fast-paced action adevnture gameplay with an emotionally expansive open-world realms, unlock abilities, solve quests and combat dynamic enemies as they uncover various secrets.
+### Key Features
+- Interdimensional Travel: Players navigate via diverse realms using the secret portals. 
+- Elemental Powers: Players harness legendary manipulation to resolve environmental challenges crucial for game advancement and narrative progression. 
+- Dynamic Combat: Players partake in rapid battles employing a variety of weapons and skills.  
+- Non-Linear Story: Diverse trajectories within the game and choices that influence the plot. 
+- Environmental Challenges: Overcome diverse puzzles to unlock new regions and advance through the narrative.
 
 ### ​Genre/Theme
 Adventure, Puzzle, Mystery.
